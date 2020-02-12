@@ -13,8 +13,7 @@ namespace Oracle_DB
 {
     public partial class frmConsCliente : Form
     {
-        //String de conexão
-        OracleConnection ora = new OracleConnection("DATA SOURCE=localhost:1521/XE;USER ID=ANDRE;PASSWORD=123");
+        OracleConnection ora = Conexao.GetConnection();
 
         public frmConsCliente()
         {
