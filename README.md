@@ -31,6 +31,7 @@ Altere o nome de usuário e senha (fornecido no momento da instalação do banco
 Utilize o SQL Developer para criar uma conexão com o banco de dados, a tabela Clientes e os procedimentos armazenados (utilize as informações do arquivo `Stored_Procedure.txt`).
 
 Agora, basta clicar em `iniciar`.
+
 ![compilar](https://user-images.githubusercontent.com/37241913/73599503-f3389e00-4522-11ea-8373-c3893bedc225.png)
 
 A aplicação será executada conforme a imagem abaixo.
@@ -38,7 +39,7 @@ A aplicação será executada conforme a imagem abaixo.
 ![softbook](https://user-images.githubusercontent.com/37241913/74115353-a6da0780-4b8d-11ea-8e95-da1b7b2521a3.png)
 
 ## Versão
-Consulte as [tags neste repositório](https://github.com/andre-aps/Restaurante/tree/v1.0).
+Consulte as [tags neste repositório](https://github.com/andre-aps/SoftBook/tree/v1.1).
 
 ## Autor
 <b> André Pereira da Silva </b> | [LinkedIn](https://www.linkedin.com/in/andre-aps)
