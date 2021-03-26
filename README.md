@@ -1,4 +1,7 @@
 # Projeto SoftBook
+![GitHub top language](https://img.shields.io/github/languages/top/andre-aps/softbook)
+![GitHub repo size](https://img.shields.io/github/repo-size/andre-aps/softbook)
+![GitHub last commit](https://img.shields.io/github/last-commit/andre-aps/softbook)
 
 O projeto SoftBook foi desenvolvido utilizando a linguagem de programação C# e permite realizar um CRUD básico simulando um sistema de biblioteca.
 
